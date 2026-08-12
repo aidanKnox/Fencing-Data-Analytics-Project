@@ -35,14 +35,6 @@ java -cp bin Main
 
 Depending on the code in `Main.java`, the program may accept file paths or mode flags. Check `src/Main.java` for argument details and examples.
 
-Windows `cmd` Example:
-
-```cmd
-cd "c:\Users\Aidan\Documents\Code\Fencing Project"
-javac -d bin src\*.java
-java -cp bin Main
-```
-
 ## Data files
 
 - Place new tournament CSVs in `res/Ledgers/` using the existing file format.
