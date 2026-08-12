@@ -1,4 +1,4 @@
-# Fencing Project
+# Fencing Data Analytics Project
 
 A Java program for managing and analyzing fencing tournament data. Bout data is processed and used to generate a rating score/number for each fencer which changes depending on their wins and losses versus different skill level opponents.
 
