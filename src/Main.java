@@ -17,7 +17,7 @@ public class Main {
         //pools();
         //test();
         //ratingAvgPlace();
-        //ratingWinrates();
+        ratingWinrates();
     }
 
     public static boolean showPointChanges = true;
