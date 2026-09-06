@@ -29355,3 +29355,766 @@ Michael Banja	U	15
 		
 		
 Elise Teitenberg	E	11
+Alex Wright	D	14
+Ian Kim	U	15
+Avery Corley	C	15
+Apolo Song	U	7
+Augusto Vicentini Silva	U	15
+Miguel Segarra	U	7
+Bonyeong Ku	U	15
+Hongxu Lang	U	14
+Jae Shim	C	15
+John Parcelewicz	C	9
+Nicholas Arzt	C	15
+Charlotte Sanders	E	10
+Christopher Lee	C	15
+Shrihan Gundubogula	U	2
+		
+Kai Weissman	B	>
+-BYE-		
+Wesley Nguyen	E	11
+Edwin Dieker	C	15
+Jack Krieger	C	15
+Gareth Payne	C	10
+Luke Loudon	B	15
+Brandon Oh	U	7
+Alexander Lazaro Duarte Napoles	B	15
+David So	U	12
+Robert Garber	D	15
+Maximilian Geissler	E	11
+Arisu Jeong	B	15
+Eric Hughes	D	6
+Ian Bland	B	15
+Noah Sigg	D	4
+Jonathan Nagano	C	15
+		
+Ian Kim	U	8
+		
+Avery Corley	C	14
+		
+Augusto Vicentini Silva	U	15
+		
+Bonyeong Ku	U	15
+		
+Jae Shim	C	10
+		
+Nicholas Arzt	C	15
+		
+Christopher Lee	C	9
+		
+Kai Weissman	B	15
+		
+Edwin Dieker	C	13
+		
+Jack Krieger	C	15
+		
+Luke Loudon	B	12
+		
+Alexander Lazaro Duarte Napoles	B	8
+		
+Robert Garber	D	15
+		
+Arisu Jeong	B	15
+		
+Ian Bland	B	10
+Jonathan Nagano	C	15
+		
+		
+		
+Augusto Vicentini Silva	U	13
+		
+		
+		
+Bonyeong Ku	U	15
+		
+		
+		
+Nicholas Arzt	C	14
+		
+		
+		
+Kai Weissman	B	15
+		
+		
+		
+Jack Krieger	C	8
+		
+		
+		
+Robert Garber	D	8
+		
+		
+		
+Arisu Jeong	B	15
+Jonathan Nagano	C	9
+		
+		
+		
+		
+		
+		
+		
+Bonyeong Ku	U	15
+		
+		
+		
+		
+		
+		
+		
+Kai Weissman	B	13
+		
+		
+		
+		
+		
+		
+		
+Arisu Jeong	B	15
+Bonyeong Ku	U	9
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Arisu Jeong	B	13
+Dave Aton	E	15
+Daon Yu	U	7
+Octavius Szeto	U	>
+-BYE-		
+Augusto Vicentini Silva	D	>
+-BYE-		
+Jensen Ray	E	>
+-BYE-		
+Brandon Oh	U	>
+-BYE-		
+Jack Krieger	C	>
+-BYE-		
+Grayson Grant	U	>
+-BYE-		
+Ian Kim	U	>
+-BYE-		
+Charlotte Sanders	E	15
+Dah yeon Kang	U	5
+Catherine Rafferty	D	>
+-BYE-		
+Wesley Nguyen	E	>
+-BYE-		
+Alex Wright	D	>
+-BYE-		
+Apolo Song	U	15
+Caiden Anthony	U	8
+Jonathan Nagano	C	>
+-BYE-		
+Isaac Marston	U	>
+-BYE-		
+		
+Christopher Lee	C	>
+-BYE-		
+David So	U	15
+Mike Sungjun Cho	U	10
+John Parcelewicz	C	>
+-BYE-		
+Robert Garber	D	>
+-BYE-		
+Eric Hughes	D	>
+-BYE-		
+Daniel Mei	U	>
+-BYE-		
+Gareth Payne	C	>
+-BYE-		
+Maximilian Geissler	E	>
+-BYE-		
+Nicholas Arzt	C	>
+-BYE-		
+Emma Housmans	E	6
+Edwin Dieker	C	15
+Rahul Menon	E	>
+-BYE-		
+Donghoo Won	E	>
+-BYE-		
+Roy Park	U	>
+-BYE-		
+Lucas Dieker	U	15
+Justice Lewis	U	5
+Jae Shim	C	15
+		
+Dave Aton	E	7
+		
+Octavius Szeto	U	13
+		
+Augusto Vicentini Silva	D	15
+		
+Jensen Ray	E	15
+		
+Brandon Oh	U	5
+		
+Jack Krieger	C	15
+		
+Grayson Grant	U	8
+		
+Ian Kim	U	15
+		
+Charlotte Sanders	E	9
+		
+Catherine Rafferty	D	11
+		
+Wesley Nguyen	E	15
+		
+Alex Wright	D	11
+		
+Apolo Song	U	15
+		
+Jonathan Nagano	C	15
+		
+Isaac Marston	U	6
+		
+Christopher Lee	C	15
+		
+David So	U	8
+		
+John Parcelewicz	C	11
+		
+Robert Garber	D	15
+		
+Eric Hughes	D	15
+		
+Daniel Mei	U	10
+		
+Gareth Payne	C	14
+		
+Maximilian Geissler	E	15
+		
+Nicholas Arzt	C	10
+		
+Edwin Dieker	C	15
+		
+Rahul Menon	E	6
+		
+Donghoo Won	E	15
+		
+Roy Park	U	15
+		
+Lucas Dieker	U	7
+		
+Noah Sigg	D	15
+		
+Alex Oh	U	13
+Jae Shim	C	15
+		
+		
+		
+Augusto Vicentini Silva	D	9
+		
+		
+		
+Jensen Ray	E	15
+		
+		
+		
+Jack Krieger	C	12
+		
+		
+		
+Ian Kim	U	15
+		
+		
+		
+Wesley Nguyen	E	11
+		
+		
+		
+Apolo Song	U	13
+		
+		
+		
+Jonathan Nagano	C	15
+		
+		
+		
+Christopher Lee	C	15
+		
+		
+		
+Robert Garber	D	7
+		
+		
+		
+Eric Hughes	D	15
+		
+		
+		
+Maximilian Geissler	E	7
+		
+		
+		
+Edwin Dieker	C	15
+		
+		
+		
+Donghoo Won	E	12
+		
+		
+		
+Roy Park	U	11
+		
+		
+		
+Noah Sigg	D	15
+Jae Shim	C	15
+		
+		
+		
+		
+		
+		
+		
+Jensen Ray	E	7
+		
+		
+		
+		
+		
+		
+		
+Ian Kim	U	4
+		
+		
+		
+		
+		
+		
+		
+Jonathan Nagano	C	15
+		
+		
+		
+		
+		
+		
+		
+Christopher Lee	C	10
+		
+		
+		
+		
+		
+		
+		
+Eric Hughes	D	15
+		
+		
+		
+		
+		
+		
+		
+Edwin Dieker	C	9
+		
+		
+		
+		
+		
+		
+		
+Noah Sigg	D	15
+Jae Shim	C	15
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Jonathan Nagano	C	10
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Eric Hughes	D	15
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Noah Sigg	D	9
+Jae Shim	C	10
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Eric Hughes	D	15
+Mallika Desai	E	15
+Levon Redman	U	13
+Lucas Dieker	U	15
+Zara Joshi	U	3
+Michael Banja	E	>
+-BYE-		
+Chan U Min	U	>
+-BYE-		
+Daniel Mei	E	>
+-BYE-		
+Diego Del Barrio	U	15
+Elaine Zhang	U	4
+Alex Oh	U	>
+-BYE-		
+Andrew Kim	U	>
+-BYE-		
+		
+Roy Park	U	>
+-BYE-		
+Daon Yu	U	14
+Mike Sungjun Cho	U	15
+Donghoo Won	E	>
+-BYE-		
+Apolo Song	U	>
+-BYE-		
+Brandon Oh	U	>
+-BYE-		
+David So	U	>
+-BYE-		
+Mei Acosta	U	>
+-BYE-		
+Allie Ng	E	>
+-BYE-		
+Jensen Ray	E	>
+-BYE-		
+Millicent Koh	U	11
+Dah yeon Kang	U	15
+Anesu Takawira	U	>
+-BYE-		
+Harrison Parrado	U	>
+-BYE-		
+Isaac Marston	U	>
+-BYE-		
+Jemi Tak	E	13
+Junseong Kim	U	15
+Ian Kim	E	15
+		
+Mallika Desai	E	5
+		
+Maximilian Geissler	E	15
+		
+Dave Aton	E	11
+		
+Dylan Flynn	U	12
+		
+Rahul Menon	E	15
+		
+Wesley Nguyen	E	15
+		
+Emma Housmans	E	9
+		
+Eric Hughes	C	15
+		
+Lucas Dieker	U	11
+		
+Michael Banja	E	15
+		
+Chan U Min	U	4
+		
+Daniel Mei	E	15
+		
+Diego Del Barrio	U	13
+		
+Alex Oh	U	15
+		
+Andrew Kim	U	6
+		
+Roy Park	U	14
+		
+Mike Sungjun Cho	U	7
+		
+Donghoo Won	E	15
+		
+Apolo Song	U	10
+		
+Brandon Oh	U	15
+		
+David So	U	14
+		
+Mei Acosta	U	8
+		
+Allie Ng	E	15
+		
+Jensen Ray	E	15
+		
+Dah yeon Kang	U	9
+		
+Anesu Takawira	U	12
+		
+Harrison Parrado	U	15
+		
+Isaac Marston	U	15
+		
+Junseong Kim	U	7
+		
+Octavius Szeto	U	15
+		
+Grayson Grant	U	13
+Ian Kim	E	15
+		
+		
+		
+Maximilian Geissler	E	9
+		
+		
+		
+Rahul Menon	E	7
+		
+		
+		
+Wesley Nguyen	E	15
+		
+		
+		
+Eric Hughes	C	15
+		
+		
+		
+Michael Banja	E	6
+		
+		
+		
+Daniel Mei	E	15
+		
+		
+		
+Alex Oh	U	13
+		
+		
+		
+Roy Park	U	15
+		
+		
+		
+Donghoo Won	E	11
+		
+		
+		
+Brandon Oh	U	15
+		
+		
+		
+Allie Ng	E	7
+		
+		
+		
+Jensen Ray	E	15
+		
+		
+		
+Harrison Parrado	U	10
+		
+		
+		
+Isaac Marston	U	15
+		
+		
+		
+Octavius Szeto	U	13
+Ian Kim	E	9
+		
+		
+		
+		
+		
+		
+		
+Wesley Nguyen	E	15
+		
+		
+		
+		
+		
+		
+		
+Eric Hughes	C	15
+		
+		
+		
+		
+		
+		
+		
+Daniel Mei	E	13
+		
+		
+		
+		
+		
+		
+		
+Roy Park	U	15
+		
+		
+		
+		
+		
+		
+		
+Brandon Oh	U	10
+		
+		
+		
+		
+		
+		
+		
+Jensen Ray	E	15
+		
+		
+		
+		
+		
+		
+		
+Isaac Marston	U	11
+Wesley Nguyen	E	11
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Eric Hughes	C	15
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Roy Park	U	11
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Jensen Ray	E	12
+Eric Hughes	C	15
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+Jensen Ray	E	13

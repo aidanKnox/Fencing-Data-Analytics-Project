@@ -17,7 +17,7 @@ public class Main {
         //pools();
         //test();
         //ratingAvgPlace();
-        ratingWinrates();
+        //ratingWinrates();
     }
 
     public static boolean showPointChanges = true;
@@ -48,7 +48,7 @@ public class Main {
         }
 
         master.dupeCheck();
-        master.sort().printFancy(50);
+        master.sort().printFancy(40);
         Roster.merge(fcau, uaf).sort().printFancy(15, true);
         //fcau.sort().export();
         //uaf.sort().printFancy(10, true);
