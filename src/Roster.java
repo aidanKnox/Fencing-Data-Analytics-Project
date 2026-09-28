@@ -155,6 +155,8 @@ public class Roster {
         if(skipList.size() == 0) System.out.println(Ansi.greenBright + "No Dupes Found" + Ansi.reset);
     }
 
+    //TODO: to allow manual changes of strength throughout tournament rosters, need to have a 'method' variable added to fencer and then in merge we need to check what method and if it was 3 value inpiut (name, rating, strength) then we ened to check and update
+    //TODO: for the above, allow changing down but throw a warning
     public static Roster merge(Roster base, Roster supplement) {
         Fencer[] noDupes = new Fencer[supplement.fencerCount];
         boolean found;
@@ -164,20 +166,10 @@ public class Roster {
             for(int j = 0; j < base.fencerCount; j ++) {
                 if(supplement.fencers[i].equals(base.fencers[j])) {
                     if(Ratings.rankToScore(supplement.fencers[i].rating, supplement.fencers[i].ratingYear) > Ratings.rankToScore(base.fencers[j].rating, base.fencers[j].ratingYear)) {
-                        //Could use something to find rankups and give bonuses
+                        //TODO: Could use something to find rankups and give bonuses
                         base.fencers[j].rating = supplement.fencers[i].rating;
                         base.fencers[j].ratingYear = supplement.fencers[i].ratingYear;
                     }
-
-                    /*if(supplement.data[i].boutsRecorded > base.data[j].boutsRecorded) {
-                        double oldScore = base.data[j].score;
-                        int oldBoutsRecorded = base.data[j].boutsRecorded;
-                        base.data[j] = supplement.data[i];
-                        System.out.println("Score Before: " + base.data[j].score);
-                        base.data[j].score = (oldScore*oldBoutsRecorded + supplement.data[i].score*supplement.data[i].boutsRecorded)/(oldBoutsRecorded + supplement.data[i].boutsRecorded);
-                        System.out.println("Score Before: " + base.data[j].score);
-                        base.data[j].boutsRecorded += oldBoutsRecorded;
-                    }*/
 
                     found = true;
                     nullCount ++;
