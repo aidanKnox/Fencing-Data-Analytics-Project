@@ -155,8 +155,6 @@ public class Roster {
         if(skipList.size() == 0) System.out.println(Ansi.greenBright + "No Dupes Found" + Ansi.reset);
     }
 
-    //TODO: to allow manual changes of strength throughout tournament rosters, need to have a 'method' variable added to fencer and then in merge we need to check what method and if it was 3 value inpiut (name, rating, strength) then we ened to check and update
-    //TODO: for the above, allow changing down but throw a warning
     public static Roster merge(Roster base, Roster supplement) {
         Fencer[] noDupes = new Fencer[supplement.fencerCount];
         boolean found;
@@ -169,6 +167,10 @@ public class Roster {
                         //TODO: Could use something to find rankups and give bonuses
                         base.fencers[j].rating = supplement.fencers[i].rating;
                         base.fencers[j].ratingYear = supplement.fencers[i].ratingYear;
+                    }
+                    if(supplement.fencers[i].loadMethod.equals("manual")) {
+                        base.fencers[j].score = supplement.fencers[i].score;
+                        System.out.println("\n" + Ansi.orange + "Warning: " + base.fencers[j].name() + " score manually changed to " + Math.round(supplement.fencers[i].score) + Ansi.reset);
                     }
 
                     found = true;

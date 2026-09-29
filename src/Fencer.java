@@ -13,6 +13,7 @@ public class Fencer implements Comparable<Fencer>{
     ArrayList<Double> scoreHistory = new ArrayList<Double>();
     String aidanRating;
     int boutsRecorded = 0;
+    String loadMethod = "default";
 
     public Fencer(String name, String rating) {
         String[] pieces = name.split(" ", 2);
@@ -30,6 +31,7 @@ public class Fencer implements Comparable<Fencer>{
         this.firstName = pieces[0];
         setRating(rating);
         this.score = score;
+        this.loadMethod = "manual";
         this.aidanRating = Ratings.scoreToRank(this.score);
         this.scoreHistory.add(this.score);
     }
