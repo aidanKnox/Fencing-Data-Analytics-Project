@@ -1,24 +1,24 @@
 Name,Rating,Score
-Wyatt Elliott,A26,875
 Everett Alley,C24,850
-Adam Soper,C24,825
+Wyatt Elliott,A26,800
+Adam Soper,C24,800
 Caleb Sutton,D25,800
 John Parcelewicz,C23,775
 Wyatt French Elliott,D26,775
 Edward Calinsky,C23,750
-Aidan Knox,C26,750
-Jacob Johnston,C25,750
 Tillman Ford,D26,725
-Devon Dunklin,E26,700
+Devon Dunklin,D26,700
 Benjamin Schuyler,E24,650
 Grayson Smith,U+,650
-Quinn Newton,U+,650
+Quinn Newton,E26,650
 Zachary Gayford,E25,600
 Alexander Vinel,U+,600
 Lucas Olson,U+,600
 John Edwards,E25,575
 Elijah Valenzuela,E24,575
 Brendan Harris,U+,575
+Jacob Johnston,C25,550
+Aidan Knox,C26,550
 Grady Johnson,U+,550
 William Meilan,E26,550
 James Hunter,E26,550
@@ -33,9 +33,10 @@ Alexander Masnica,U+,500
 James Wash,U,475
 Jacob Jernigan,U,475
 Kurt Schmitkons,U,475
-Thomas McCants,u,475
+Thomas McCants,u,450
 Benjamin Baum,U,450
 Carson Phillips,C26,450
+Lance Nichols,u,450
 Cole Cordle,U,425
 Travis Summey,U,425
 Robert Hanner,U,425
@@ -49,7 +50,6 @@ Lucas Caron,u,400
 William McNair,u,400
 Carson Dunkle,u,400
 Phillip Retzer,u,400
-Lance Nichols,u,400
 Kathryn Varner,u,375
 Rylee Herndon,u,375
 Antonio Christian,u,375

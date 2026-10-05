@@ -55,6 +55,7 @@ public class Bouts {
         left.score += change; right.score -= change;
         left.score += boutExp/(Math.exp(left.score/250.0)); right.score += boutExp/(Math.exp(right.score/250.0));
         left.aidanRating = Ratings.scoreToRank(left.score); right.aidanRating = Ratings.scoreToRank(right.score);
+        //TODO: since this is average, add a way to calculate optimistic
         left.boutsRecorded ++; right.boutsRecorded ++;
         left.scoreHistory.add(left.score); right.scoreHistory.add(right.score);
 
