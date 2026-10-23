@@ -20,8 +20,7 @@ public class Ratings {
         ratings.put("u", 300);
     }
 
-    // Could make it so that rating is at top of roster file; may need to restructure functions todo that
-    public static double rankToScore(String rating, int ratingYear) { // TODO: Probably need a hookup to change year so we arent grading bouts of past as worse
+    public static double rankToScore(String rating, int ratingYear) {
         if (Main.thisYear - ratingYear < 4) return ratings.get(rating) - ((Main.thisYear - ratingYear) * 25) + 50;
         else return ratings.get(rating) - 100 + 50;
     }

@@ -48,7 +48,7 @@ public class Main {
         }
 
         master.dupeCheck();
-        master.sort().printFancy(40);
+        master.sort().printFancy(15);
         //Roster.merge(fcau, uaf).sort().printFancy(15, true);
         //fcau.sort().export();
         fcau.sort().printFancy(10, true);

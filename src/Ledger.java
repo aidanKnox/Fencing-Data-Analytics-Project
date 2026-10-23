@@ -3,8 +3,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-//TODO: make ? in spreadsheet do a sim bout
-
 public class Ledger {
     ArrayList<String> raw;
     Roster roster;
